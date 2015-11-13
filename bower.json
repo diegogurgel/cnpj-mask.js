@@ -1,0 +1,33 @@
+{
+  "name": "cnpj-mask.js",
+  "homepage": "https://github.com/diegogurgel/cnpj-mask.js",
+  "authors": [
+    "Diego Gurgel"
+  ],
+  "description": "Mask for cnpj(BR format)",
+  "main": "cnpj-mask.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "máscara",
+    "cnpj",
+    "mask",
+    "cnpj",
+    "máscara",
+    "cnpj",
+    "formato",
+    "cnpj",
+    "placeholder",
+    "cnpj"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
